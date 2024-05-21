@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fefb1638.css",
+    "main.css": "/static/css/main.3d731814.css",
     "main.js": "/static/js/main.8fc28460.js",
     "static/media/apnaui-project.jpeg": "/static/media/apnaui-project.7090bf65dd406b8be4d2.jpeg",
     "static/media/LandingPage.jpeg": "/static/media/LandingPage.b4460e94174d95992c4d.jpeg",
@@ -8,11 +8,11 @@
     "static/media/SupriyaSandhyan.pdf": "/static/media/SupriyaSandhyan.20a36149be7792c5f4e0.pdf",
     "static/media/profilepic.jpeg": "/static/media/profilepic.d0ab06852bbbfac5436b.jpeg",
     "index.html": "/index.html",
-    "main.fefb1638.css.map": "/static/css/main.fefb1638.css.map",
+    "main.3d731814.css.map": "/static/css/main.3d731814.css.map",
     "main.8fc28460.js.map": "/static/js/main.8fc28460.js.map"
   },
   "entrypoints": [
-    "static/css/main.fefb1638.css",
+    "static/css/main.3d731814.css",
     "static/js/main.8fc28460.js"
   ]
 }
