@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c2c234c.css",
-    "main.js": "/static/js/main.4df68d31.js",
+    "main.js": "/static/js/main.02e6ea9a.js",
     "static/media/apnaui-project.jpeg": "/static/media/apnaui-project.7090bf65dd406b8be4d2.jpeg",
     "static/media/LandingPage.jpeg": "/static/media/LandingPage.b4460e94174d95992c4d.jpeg",
     "static/media/Netflix-project.jpeg": "/static/media/Netflix-project.d1480b40e29f633338ff.jpeg",
@@ -9,10 +9,10 @@
     "static/media/profilepic.jpeg": "/static/media/profilepic.d0ab06852bbbfac5436b.jpeg",
     "index.html": "/index.html",
     "main.5c2c234c.css.map": "/static/css/main.5c2c234c.css.map",
-    "main.4df68d31.js.map": "/static/js/main.4df68d31.js.map"
+    "main.02e6ea9a.js.map": "/static/js/main.02e6ea9a.js.map"
   },
   "entrypoints": [
     "static/css/main.5c2c234c.css",
-    "static/js/main.4df68d31.js"
+    "static/js/main.02e6ea9a.js"
   ]
 }
