@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8f4f99c.css",
-    "main.js": "/static/js/main.cdede08d.js",
+    "main.css": "/static/css/main.fefb1638.css",
+    "main.js": "/static/js/main.8fc28460.js",
     "static/media/apnaui-project.jpeg": "/static/media/apnaui-project.7090bf65dd406b8be4d2.jpeg",
     "static/media/LandingPage.jpeg": "/static/media/LandingPage.b4460e94174d95992c4d.jpeg",
     "static/media/Netflix-project.jpeg": "/static/media/Netflix-project.d1480b40e29f633338ff.jpeg",
     "static/media/SupriyaSandhyan.pdf": "/static/media/SupriyaSandhyan.20a36149be7792c5f4e0.pdf",
     "static/media/profilepic.jpeg": "/static/media/profilepic.d0ab06852bbbfac5436b.jpeg",
     "index.html": "/index.html",
-    "main.c8f4f99c.css.map": "/static/css/main.c8f4f99c.css.map",
-    "main.cdede08d.js.map": "/static/js/main.cdede08d.js.map"
+    "main.fefb1638.css.map": "/static/css/main.fefb1638.css.map",
+    "main.8fc28460.js.map": "/static/js/main.8fc28460.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8f4f99c.css",
-    "static/js/main.cdede08d.js"
+    "static/css/main.fefb1638.css",
+    "static/js/main.8fc28460.js"
   ]
 }
