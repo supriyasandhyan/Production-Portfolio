@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5c2c234c.css",
-    "main.js": "/static/js/main.02e6ea9a.js",
+    "main.js": "/static/js/main.731c996a.js",
     "static/media/apnaui-project.jpeg": "/static/media/apnaui-project.7090bf65dd406b8be4d2.jpeg",
     "static/media/LandingPage.jpeg": "/static/media/LandingPage.b4460e94174d95992c4d.jpeg",
     "static/media/Netflix-project.jpeg": "/static/media/Netflix-project.d1480b40e29f633338ff.jpeg",
+    "static/media/concrete-mitra.jpeg": "/static/media/concrete-mitra.37f393582c35f976ef76.jpeg",
     "static/media/SupriyaSandhyan.pdf": "/static/media/SupriyaSandhyan.20a36149be7792c5f4e0.pdf",
     "static/media/profilepic.jpeg": "/static/media/profilepic.d0ab06852bbbfac5436b.jpeg",
     "index.html": "/index.html",
     "main.5c2c234c.css.map": "/static/css/main.5c2c234c.css.map",
-    "main.02e6ea9a.js.map": "/static/js/main.02e6ea9a.js.map"
+    "main.731c996a.js.map": "/static/js/main.731c996a.js.map"
   },
   "entrypoints": [
     "static/css/main.5c2c234c.css",
-    "static/js/main.02e6ea9a.js"
+    "static/js/main.731c996a.js"
   ]
 }
